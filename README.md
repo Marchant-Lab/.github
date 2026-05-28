@@ -1,4 +1,4 @@
-# Marchant Lab 🧬🌱🌊
+# Marchant Lab
 
 The Marchant Lab at the Universidad Industrial de Santander (UIS) integrates physiology, genomics, and transcriptomics. Our research bridges basic and applied science, leveraging molecular ecology to address critical challenges in biodiversity conservation, plant-pathogen interactions, and sustainable agricultural biotechnology.
 
@@ -6,7 +6,7 @@ We are based in the **Escuela de Biología** at **UIS** in Bucaramanga, Santande
 
 ---
 
-## 🔬 Core Research Axes
+## Core Research Axes
 
 ### 1. Agricultural Biotechnology & Phytopathology
 In close collaboration with institutions like AGROSAVIA, we investigate the occurrence, molecular characterization, and genetic variability of plant pathogens and agricultural pests to promote sustainable farming practices.
@@ -26,7 +26,7 @@ We combine rigorous fieldwork with molecular diagnostics and computational tools
 
 ---
 
-## 💻 Computational Pipelines & Toolsets
+## Computational Pipelines & Toolsets
 Our lab heavily utilizes bioinformatics workflows to transform high-throughput sequencing data into biological insights. We build, maintain, and implement reproducible workflows focusing on:
 * **Long-Read & Short-Read Sequencing:** Processing and assembly pipelines optimized for technologies like Oxford Nanopore Sequencing.
 * **Phylogenomics & Population Structure:** Scripting and pipeline development using Nextflow, R, and Python.
@@ -34,7 +34,7 @@ Our lab heavily utilizes bioinformatics workflows to transform high-throughput s
 
 ---
 
-## 🤝 Contact & Collaborations
+## Contact & Collaborations
 We welcome collaboration with researchers, students, and institutions interested in evolutionary biology, molecular diagnostics, and bioinformatics.
 
 * **Lab Director:** Dr. Sergio Andrés Marchant Rojas
