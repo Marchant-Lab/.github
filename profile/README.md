@@ -1,15 +1,32 @@
-## Hi there 
+# Marchant Lab · Universidad Industrial de Santander
 
-Welcome to the official GitHub home of the **Marchant Lab** at the Universidad Industrial de Santander (UIS)! We are a team of computational biologists, ecologists, and phytopathologists leveraging data science to understand life from genomes to ecosystems.
+**Environmental DNA, molecular ecology and genomics for the knowledge and sustainable use of biodiversity in Colombia.**
 
-###  Getting Involved
-* **Students & Researchers:** We are always looking for passionate undergraduate and graduate students at UIS interested in molecular diagnostics, evolution, and bioinformatics pipelines.
-* **Open Source Community:** Feel free to fork our pipelines, open issues, or submit pull requests to help optimize our genomic workflows.
+We are based at the Escuela de Biología, Universidad Industrial de Santander (UIS), with our lab at the UIS Guatiguará campus (Piedecuesta, Santander, Colombia).
 
-###  Useful Resources
-*  **Main Website / Docs:** Explore our active repositories below to find setup guides for our sequencing and phylogenomics pipelines.
-*  **Research Profile:** Check out our formal publications and historical timelines via our [ORCID Registry](https://orcid.org/0000-0002-7362-3626).
+🌐 **Website:** [marchant-lab.github.io/marchant-lab-web](https://marchant-lab.github.io/marchant-lab-web/en/) (English) · [Español](https://marchant-lab.github.io/marchant-lab-web/)
 
-###  Fun Facts
-*  **What we eat for breakfast:** The code in these repositories is fueled almost entirely by precision-brewed high-quality espresso and batches of homemade Greek yogurt. 
-*  **In the field:** When we aren't writing pipelines, you can find us discovering new species in Colombian crops or directing exhibits at the UIS Natural History Museum!
+## Research lines
+
+- **Environmental DNA and biodiversity monitoring.** Environmental DNA and high-throughput sequencing to describe and monitor ecosystem biodiversity.
+- **Molecular ecology and evolution.** Molecular markers and genomics to study genetic diversity, species boundaries, phylogeography and adaptation, and tools for teaching evolution.
+- **Genomics of microorganisms with biotechnological potential.** Genomics and transcriptomics of fungi and bacteria to understand and harness their biotechnological potential.
+- **Molecular diagnosis of agricultural pests and pathogens.** Morphological and molecular tools to identify crop pests and pathogens and support their management.
+- **Molecular nematology.** Identification, phylogeny and genetic diversity of plant-parasitic nematodes of agricultural importance.
+
+Projects, publications, theses and team: see the [website](https://marchant-lab.github.io/marchant-lab-web/en/).
+
+## How we work
+
+- **Sequencing:** Oxford Nanopore PromethION 2 Solo, in partnership with AGROSAVIA (Guatiguará Technology Park).
+- **Computing:** a 64-thread server with 512 GB RAM and 2 NVIDIA RTX A5000 GPUs.
+- **Reproducible analyses:** Nextflow, conda, Apptainer and Docker. Each analysis lives in its own repository, with numbered scripts and documented decisions. Most repositories are private until the work is published.
+
+## Join us
+
+We welcome undergraduate (Biology and related programs at UIS), master's and PhD students, and short lab or bioinformatics internships, in environmental DNA, molecular ecology and evolution, microbial genomics, plant health and nematology.
+
+## Contact
+
+**Sergio Andrés Marchant Rojas**, PhD · Associate Professor, Escuela de Biología, UIS
+✉️ seanmaro@uis.edu.co · [ORCID](https://orcid.org/0000-0002-7362-3626) · [CvLAC](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000034254) · [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57124274700)
