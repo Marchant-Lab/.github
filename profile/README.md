@@ -24,9 +24,14 @@ Projects, publications, theses and team: see the [website](https://marchant-lab.
 - **Computing:** a 64-thread server with 512 GB RAM and 2 NVIDIA RTX A5000 GPUs.
 - **Reproducible analyses:** Nextflow, conda, Apptainer and Docker. Each analysis lives in its own repository, with numbered scripts and documented decisions. Most repositories are private until the work is published.
 
-## Join us
+## Work with us
 
-We welcome undergraduate (Biology and related programs at UIS), master's and PhD students, and short lab or bioinformatics internships, in environmental DNA, molecular ecology and evolution, microbial genomics, plant health and nematology.
+- **Students:** undergraduate, master's and PhD theses, and short lab or bioinformatics internships.
+- **Postdocs and visiting researchers:** with their own funding or funding from calls (Minciencias, among others). If you do not have funding yet, we write the proposal together.
+- **Collaborations:** joint projects and joint applications to funding calls with research groups, universities, research centers and public agencies.
+- **Services** (through UIS extension): Nanopore sequencing, environmental DNA (metabarcoding), molecular identification of pests, pathogens and nematodes, bioinformatic analysis and consulting.
+
+Details and what to send: [Work with us](https://marchant-lab.github.io/marchant-lab-web/en/vinculate/).
 
 ## Contact
 
