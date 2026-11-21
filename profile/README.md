@@ -1,6 +1,8 @@
-# Marchant Lab · Universidad Industrial de Santander
+# Marchant Lab
 
-**Environmental DNA, molecular ecology and genomics for the knowledge and sustainable use of biodiversity in Colombia.**
+**Laboratory of Physiology, Genomics and Transcriptomics** (*Laboratorio de Fisiología, Genómica y Transcriptómica*) · Universidad Industrial de Santander
+
+Environmental DNA, molecular ecology and genomics for the knowledge and sustainable use of biodiversity in Colombia.
 
 We are based at the Escuela de Biología, Universidad Industrial de Santander (UIS), with our lab at the UIS Guatiguará campus (Piedecuesta, Santander, Colombia).
 
