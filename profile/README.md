@@ -36,4 +36,4 @@ Details and what to send: [Work with us](https://marchant-lab.github.io/marchant
 ## Contact
 
 **Sergio Andrés Marchant Rojas**, PhD · Associate Professor, Escuela de Biología, UIS
-✉️ seanmaro@uis.edu.co · [ORCID](https://orcid.org/0000-0002-7362-3626) · [CvLAC](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000034254) · [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57124274700)
+✉️ [Contact via the website](https://marchant-lab.github.io/marchant-lab-web/en/vinculate/) · [ORCID](https://orcid.org/0000-0002-7362-3626) · [CvLAC](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000034254) · [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57124274700)
